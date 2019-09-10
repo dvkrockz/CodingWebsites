@@ -25,6 +25,3 @@ I will try to add my own preferable reference links sooner and will be categoris
 * https://www.tutorialspoint.com/
 * https://dotnettutorials.net/
 * https://www.w3schools.com/
-* https://rogerdudler.github.io/git-guide/
-* https://rogerdudler.github.io/git-guide/
-* https://rogerdudler.github.io/git-guide/
